@@ -1,4 +1,3 @@
-import 'bootstrap/dist/css/bootstrap.min.css'
 function Header() {
     return(
         <header className='bg-dark py-5'>
