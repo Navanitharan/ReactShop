@@ -1,5 +1,6 @@
 import './App.css';
 import "bootstrap/dist/css/bootstrap.min.css";
+import 'bootstrap/dist/js/bootstrap.bundle.js'
 import Card from "./Card.jsx";
 import Navbar from './Nav.jsx';
 import Header from './header.jsx';
